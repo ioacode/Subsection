@@ -1,0 +1,12 @@
+Subsection
+CollectionView inside TableView inside CollectionView inside TableView
+
+- to run application 
+1. first dont forget you mac has Cocoapod
+2. Pod install
+
+- open Yups.xcworkspace
+
+- just running
+
+I hope this help you
